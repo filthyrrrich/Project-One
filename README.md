@@ -34,6 +34,6 @@ Enter a location by clicking on a visible door.
 
 Explore items by clicking on them.
 
-#Play the Game
+# Play the Game
 https://filthyrrrich.github.io/Project-One/
 

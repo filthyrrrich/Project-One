@@ -35,5 +35,5 @@ Enter a location by clicking on a visible door.
 Explore items by clicking on them.
 
 #Play the Game
-https://ncooperw.github.io/Project-1/index1.html
+https://filthyrrrich.github.io/Project-One/
 

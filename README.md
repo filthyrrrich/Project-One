@@ -10,15 +10,15 @@ Rich Schiffer, Megan Evans, Rachal Metz, Nicole Cooper-White
 Colfax Thangs is a game where the user explores the iconic street in Denver, Colfax Avenue. Along the journey, the play realises that there is something amiss as they enter locations, collect items, and meet strange people. The user must find certain items and answer questions correctly to move on in the game. The goal is to collect all of the things and understand what lies beneath the bizarre occurrences that happen on Colfax.
 The game ends in a boss battle where the user can use thier found items to help them defeat the boss.
 
-The game was created using:
-HTML5
-CSS
-Javascript
-jQuery
-
 APIs
 Text to speech API is used for the car to interact with the user
 Kitten image API
+
+## Built With
+* HTML5
+* CSS3
+* jQuery
+* Firebase
 
 # Project Status
 The game is fully functioning. 

@@ -1,6 +1,10 @@
 # Project-1 Colfax Thangs
 **Group Members**
-Rich Schiffer, Megan Evans, Rachal Metz, Nicole Cooper-White
+
+* Rich Schiffer
+* Megan Evans
+* Rachal Metz
+* Nicole Cooper-White
 
 ## About Colfax Thangs
 Colfax Thangs is a game where the user explores the iconic street in Denver, Colfax Avenue. Along the journey, the play realises that there is something amiss as they enter locations, collect items, and meet strange people. The user must find certain items and answer questions correctly to move on in the game. The goal is to collect all of the things and understand what lies beneath the bizarre occurrences that happen on Colfax.
